@@ -1,12 +1,21 @@
 * {
     font-family: 'Courier New', Courier, monospace;
 }
+html{
+    background-color: rgb(0, 63, 127);
+}
 h1{
     text-align: center;
     background-color: #dedede;
 }
 form{
+    border: 5px solid;
+    background-color: rgb(71, 148, 0);
+    border-radius: 20px ;
+    border-style:double;
     text-align: center;
-    padding: 5px;
-    margin: 52px;
+    margin: 12px;
+    padding-bottom: 200px;
+    margin-left: 700px;
+    margin-right: 700px;
 }
